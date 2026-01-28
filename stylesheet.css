@@ -1,0 +1,61 @@
+
+body {
+    background-color: #a8f5ff;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+
+h1 {
+    color: #3c6526;
+    font-family: "Gill Sans", Arial, sans-serif;
+}
+
+h2 {
+    color: #1b4d33;
+}
+
+
+.school-titel {
+    background-color: black;
+    color: #7272ee;
+    font-size: 18px;
+    padding: 8px;
+    width: 50px;
+}
+
+
+.rood {
+    color: #ff0000;
+}
+
+
+table {
+    background-color: white;
+    margin-bottom: 20px;
+}
+
+table th,
+table td {
+    border: 1px;
+    padding: 8px 12px;
+}
+
+table th {
+    background-color: #d9f2ff;
+}
+
+
+ul {
+    color: blue;
+}
+
+
+a {
+    color: red;
+    font-size: 18px;
+}
+
+img {
+    margin: 10px 10px;
+}
